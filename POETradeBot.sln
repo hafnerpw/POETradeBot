@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POETradeBot", "POETradeBot\POETradeBot.csproj", "{0E1BD515-D556-4567-86EF-42BEE7624BDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		deploy|Any CPU = deploy|Any CPU
+		deploy2|Any CPU = deploy2|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E1BD515-D556-4567-86EF-42BEE7624BDC}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{0E1BD515-D556-4567-86EF-42BEE7624BDC}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{0E1BD515-D556-4567-86EF-42BEE7624BDC}.deploy|Any CPU.ActiveCfg = deploy|Any CPU
+		{0E1BD515-D556-4567-86EF-42BEE7624BDC}.deploy|Any CPU.Build.0 = deploy|Any CPU
+		{0E1BD515-D556-4567-86EF-42BEE7624BDC}.deploy2|Any CPU.ActiveCfg = deploy2|Any CPU
+		{0E1BD515-D556-4567-86EF-42BEE7624BDC}.deploy2|Any CPU.Build.0 = deploy2|Any CPU
+		{0E1BD515-D556-4567-86EF-42BEE7624BDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E1BD515-D556-4567-86EF-42BEE7624BDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44BCEA39-E021-4F39-B589-1561CC068846}
+	EndGlobalSection
+EndGlobal
